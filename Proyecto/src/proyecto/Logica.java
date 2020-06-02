@@ -14,7 +14,7 @@ public class Logica {
         return "Ricardo Jara ";
     }
     public String JuanCañar(){
-        return "Juan Cañar";
+        return "Este metodo ha sido modificado por: Juan Cañar";
     }
     
     public String FannyGutama(){
