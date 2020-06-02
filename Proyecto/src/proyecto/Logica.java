@@ -18,6 +18,6 @@ public class Logica {
     }
     
     public String FannyGutama(){
-        return "Fanny Gutama ";
+        return "Este metodo a sido modificado por: Fanny Gutama ";
     }
 }
