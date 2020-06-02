@@ -14,7 +14,7 @@ public class Logica {
         return "Ricardo Jara ";
     }
     public String JuanCañar(){
-        return "Juan Cañar ";
+        return "Juan Cañar";
     }
     
     public String FannyGutama(){
