@@ -11,13 +11,13 @@ package proyecto;
  */
 public class Logica {
     public String RicardoJara(){
-        return "Este metodo a sido modificado por: Ricardo Jara ";
+        return "Este metodo a sido modificado por: Ricardo Jara";
     }
     public String JuanCañar(){
         return "Este metodo ha sido modificado por: Juan Cañar";
     }
     
     public String FannyGutama(){
-        return "Este metodo a sido modificado por: Fanny Gutama ";
+        return "Este metodo a sido modificado por: Fanny Gutama";
     }
 }
